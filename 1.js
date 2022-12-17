@@ -1,2 +1,3 @@
-alert('Hello world')
+alert('Hello world');
+num1 =22;
 
