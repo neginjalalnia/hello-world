@@ -30,4 +30,3 @@ contract WorkingWithVariables{
             myString = _myString;
         }
 
-}
